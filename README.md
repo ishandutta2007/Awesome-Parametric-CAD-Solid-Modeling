@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Parametric-CAD-Solid-Modeling/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,110 +64,110 @@ The following table compares leading SaaS and cloud-connected parametric CAD app
 
 ## 💻 Open-Source GitHub Projects
 
-The following list contains open-source solid modeling applications, programmatic Code-as-CAD engines, and geometric kernels. Repositories are sorted by **GitHub Star Count** in descending order:
+The following list contains open-source solid modeling applications, programmatic Code-as-CAD engines, and geometric kernels. Repositories are sorted by **GitHub Stars_Count** in descending order:
 
 1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
    The flagship general-purpose open-source parametric 3D CAD modeler powered by OpenCascade. Features PartDesign, Sketcher geometric constraint solver, Assembly, FEM analysis, and comprehensive Python scripting.
 
 2. **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/tangency-labs/solidcraft?style=social&color=white)](https://github.com/tangency-labs/solidcraft/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/tangency-labs/solidcraft?style=social&color=white)](https://github.com/tangency-labs/solidcraft/stargazers)  
    Modern open-source parametric 3D CAD application built in pure Rust. Features desktop and WebAssembly browser modeling, topological naming resistance, and AI automation via Model Context Protocol (MCP).
 
 3. **[OpenSCAD](https://github.com/openscad/openscad)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
    The definitive "Programmer's Solid 3D CAD Modeler". Compiles declarative Constructive Solid Geometry (CSG) text files into exact 3D models with fast Manifold-backed boolean evaluation.
 
 4. **[CadQuery](https://github.com/CadQuery/cadquery)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=social&color=white)](https://github.com/CadQuery/cadquery/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=social&color=white)](https://github.com/CadQuery/cadquery/stargazers)  
    Python parametric CAD scripting framework built on OpenCascade (OCCT). Provides fluent selector-based APIs, 2D/3D workplanes, parametric assemblies, and native STEP/STL export.
 
 5. **[CADAM (Adam-CAD)](https://github.com/Adam-CAD/CADAM)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=social&color=white)](https://github.com/Adam-CAD/CADAM/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=social&color=white)](https://github.com/Adam-CAD/CADAM/stargazers)  
    Open-source browser-based text-to-CAD application generating parametric boundary-representation models from natural language instructions.
 
 6. **[SolveSpace](https://github.com/solvespace/solvespace)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/solvespace/solvespace?style=social&color=white)](https://github.com/solvespace/solvespace/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/solvespace/solvespace?style=social&color=white)](https://github.com/solvespace/solvespace/stargazers)  
    Ultra-compact, standalone 2D/3D parametric CAD system. Renowned for its lightning-fast geometric constraint solver, linkage simulation, STEP/DXF exports, and minimal memory footprint.
 
 7. **[build123d](https://github.com/gumyr/build123d)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/gumyr/build123d?style=social&color=white)](https://github.com/gumyr/build123d/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/gumyr/build123d?style=social&color=white)](https://github.com/gumyr/build123d/stargazers)  
    Modern Pythonic CAD programming framework built on OpenCascade. Supports both imperative builder-mode context managers and declarative algebraic operations for intricate mechanical assemblies.
 
 8. **[JSCAD (OpenJSCAD)](https://github.com/jscad/OpenJSCAD.org)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/jscad/OpenJSCAD.org?style=social&color=white)](https://github.com/jscad/OpenJSCAD.org/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/jscad/OpenJSCAD.org?style=social&color=white)](https://github.com/jscad/OpenJSCAD.org/stargazers)  
    Modular JavaScript and TypeScript programmatic CAD environment. Enables developers to build parametric 2D and 3D solid parts inside web browsers and Node.js microservices.
 
 9. **[OpenCASCADE Technology (OCCT)](https://github.com/Open-Cascade-SAS/OCCT)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/OCCT?style=social&color=white)](https://github.com/Open-Cascade-SAS/OCCT/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/OCCT?style=social&color=white)](https://github.com/Open-Cascade-SAS/OCCT/stargazers)  
    The industrial standard open-source C++ 3D Boundary Representation (B-Rep) geometric modeling kernel powering FreeCAD, CadQuery, KiCad 3D, and Salome.
 
 10. **[Fornjot](https://github.com/hannobraun/fornjot)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/hannobraun/fornjot?style=social&color=white)](https://github.com/hannobraun/fornjot/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/hannobraun/fornjot?style=social&color=white)](https://github.com/hannobraun/fornjot/stargazers)  
     Next-generation code-first B-Rep CAD kernel written from the ground up in Rust, featuring deterministic geometry generation and verifiable manifold meshes.
 
 11. **[BOSL2 (Belfry OpenSCAD Library v2)](https://github.com/BelfrySCAD/BOSL2)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/BelfrySCAD/BOSL2?style=social&color=white)](https://github.com/BelfrySCAD/BOSL2/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/BelfrySCAD/BOSL2?style=social&color=white)](https://github.com/BelfrySCAD/BOSL2/stargazers)  
     Comprehensive, high-performance OpenSCAD library providing procedural masks, attachments, fillets, threads, shapes, and kinematic coordinate transformers.
 
 12. **[Manifold](https://github.com/elalish/manifold)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/elalish/manifold?style=social&color=white)](https://github.com/elalish/manifold/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/elalish/manifold?style=social&color=white)](https://github.com/elalish/manifold/stargazers)  
     Guaranteed watertight, parallelized C++ mesh boolean and geometric library designed for real-time CSG evaluation in modern desktop and WebAssembly CAD engines.
 
 13. **[Mayo (fougue/mayo)](https://github.com/fougue/mayo)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/fougue/mayo?style=social&color=white)](https://github.com/fougue/mayo/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/fougue/mayo?style=social&color=white)](https://github.com/fougue/mayo/stargazers)  
     Fast, cross-platform 3D CAD viewer and geometry converter based on Qt and OpenCascade supporting STEP, IGES, BREP, glTF, and OBJ with tree inspection.
 
 14. **[Dune 3D](https://github.com/dune3d/dune3d)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/dune3d/dune3d?style=social&color=white)](https://github.com/dune3d/dune3d/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/dune3d/dune3d?style=social&color=white)](https://github.com/dune3d/dune3d/stargazers)  
     Contemporary open-source parametric 3D CAD software pairing the robust SolveSpace 2D/3D constraint solver with the OpenCascade B-Rep modeling kernel.
 
 15. **[truck (ricosjp/truck)](https://github.com/ricosjp/truck)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/ricosjp/truck?style=social&color=white)](https://github.com/ricosjp/truck/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/ricosjp/truck?style=social&color=white)](https://github.com/ricosjp/truck/stargazers)  
     Pure Rust modular B-Rep shape modeling kernel with NURBS surface evaluation and WebGPU rendering pipelines for cloud-native mechanical CAD.
 
 16. **[libfive](https://github.com/libfive/libfive)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/libfive/libfive?style=social&color=white)](https://github.com/libfive/libfive/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/libfive/libfive?style=social&color=white)](https://github.com/libfive/libfive/stargazers)  
     Infrastructure for solid modeling using Functional Representation (F-Rep) and Signed Distance Fields (SDF) with seamless blends and Guile/Python bindings.
 
 17. **[NopSCADlib](https://github.com/nophead/NopSCADlib)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/nophead/NopSCADlib?style=social&color=white)](https://github.com/nophead/NopSCADlib/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/nophead/NopSCADlib?style=social&color=white)](https://github.com/nophead/NopSCADlib/stargazers)  
     Extensive open-source library of 3D mechanical components (motors, fasteners, pulleys, extrusions) and assembly automation framework for OpenSCAD.
 
 18. **[ImplicitCAD](https://github.com/colah/ImplicitCAD)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/colah/ImplicitCAD?style=social&color=white)](https://github.com/colah/ImplicitCAD/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/colah/ImplicitCAD?style=social&color=white)](https://github.com/colah/ImplicitCAD/stargazers)  
     Math-inspired CAD program written in Haskell providing continuous CSG, smooth filleting, and beveling using implicit geometric functions.
 
 19. **[CascadeStudio](https://github.com/zalo/CascadeStudio)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/zalo/CascadeStudio?style=social&color=white)](https://github.com/zalo/CascadeStudio/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/zalo/CascadeStudio?style=social&color=white)](https://github.com/zalo/CascadeStudio/stargazers)  
     Browser-based live-scripted CAD IDE combining OpenCascade.js, Monaco Editor, and Three.js for real-time parametric JavaScript modeling and STEP export.
 
 20. **[Zoo Modeling App](https://github.com/KittyCAD/modeling-app)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/KittyCAD/modeling-app?style=social&color=white)](https://github.com/KittyCAD/modeling-app/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/KittyCAD/modeling-app?style=social&color=white)](https://github.com/KittyCAD/modeling-app/stargazers)  
     The official open-source client application for Zoo Design Studio, integrating declarative KCL code, real-time WebGPU canvas, and text-to-cad workflows.
 
 21. **[SolidPython](https://github.com/SolidCode/SolidPython)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/SolidCode/SolidPython?style=social&color=white)](https://github.com/SolidCode/SolidPython/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/SolidCode/SolidPython?style=social&color=white)](https://github.com/SolidCode/SolidPython/stargazers)  
     Python frontend for solid modeling that compiles high-level Python code to procedural OpenSCAD scripts for rapid 3D fabrication.
 
 22. **[Curv](https://github.com/curv3d/curv)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/curv3d/curv?style=social&color=white)](https://github.com/curv3d/curv/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/curv3d/curv?style=social&color=white)](https://github.com/curv3d/curv/stargazers)  
     Functional programming language designed for generative art and 3D solid modeling using mathematical Signed Distance Fields and infinite-resolution rendering.
 
 23. **[BRL-CAD](https://github.com/BRL-CAD/brlcad)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=social&color=white)](https://github.com/BRL-CAD/brlcad/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=social&color=white)](https://github.com/BRL-CAD/brlcad/stargazers)  
     Veteran open-source combinatorial solid modeling system featuring ray tracing, thermal analysis, ballistic simulation, and high-performance CSG.
 
 24. **[opencascade.js](https://github.com/donalffons/opencascade.js)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/donalffons/opencascade.js?style=social&color=white)](https://github.com/donalffons/opencascade.js/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/donalffons/opencascade.js?style=social&color=white)](https://github.com/donalffons/opencascade.js/stargazers)  
     Comprehensive WebAssembly port of OpenCascade via Emscripten, enabling full B-Rep solid modeling and STEP parsing in browser frontends.
 
 25. **[replicad](https://github.com/sgenoud/replicad)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/sgenoud/replicad?style=social&color=white)](https://github.com/sgenoud/replicad/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/sgenoud/replicad?style=social&color=white)](https://github.com/sgenoud/replicad/stargazers)  
     Ergonomic JavaScript/TypeScript library built on `opencascade.js` for building 3D B-Rep CAD models with web-first declarative syntax and React integration.
 
 26. **[OCP CAD Viewer (VS Code)](https://github.com/bernhard-42/vscode-ocp-cad-viewer)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/bernhard-42/vscode-ocp-cad-viewer?style=social&color=white)](https://github.com/bernhard-42/vscode-ocp-cad-viewer/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/bernhard-42/vscode-ocp-cad-viewer?style=social&color=white)](https://github.com/bernhard-42/vscode-ocp-cad-viewer/stargazers)  
     Interactive Three.js CAD viewer integrated directly inside Visual Studio Code for inspecting `build123d` and `CadQuery` solid models live during coding.
 
 ---
